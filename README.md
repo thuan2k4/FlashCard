@@ -1,2 +1,2 @@
 # Programming Project Ideas
-## Bulid in flask (Python)
+## Buld in flask (Python)
