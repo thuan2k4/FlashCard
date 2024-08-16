@@ -1,0 +1,46 @@
+/* font family */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Asap:ital,wght@0,100..900;1,100..900&family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=League+Gothic&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+main{
+  min-height: 100vh;
+}
+#close_add{
+  border-radius: 25px;
+}
+
+
+input{
+  height: 70px;
+  text-align: left; /* Căn trái văn bản */
+  vertical-align: top; /* Đảm bảo văn bản bắt đầu từ trên cùng */
+  white-space: normal;
+}
+
+.col-3{
+  min-height: 300px;
+  min-width: 200px;
+  background-color: wheat;
+  margin: 15px;
+}
+.box{
+  background-color: wheat;
+}
+
+.icon_delete,.icon_delete{
+  padding: 0;
+  border: 0;
+  background-color: white;
+  font-size: 18px;
+}
+
+.bi-pencil-square{
+  color: green;
+}
+.bi-trash{
+  color: red;
+}
